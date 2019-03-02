@@ -1,0 +1,19 @@
+{
+  "name": "solo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.html start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ej94/solo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ej94/solo/issues"
+  },
+  "homepage": "https://github.com/ej94/solo#readme"
+}
